@@ -1,4 +1,5 @@
 // Tripple Barrier
+// Source: https://github.com/mg64ve/TripleBarrier/blob/master/TripleBarrier.c
 
 #define DO_SIGNALS  // generate sample set in Train mode
 #define OFFSET 8
